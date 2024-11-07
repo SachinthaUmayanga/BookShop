@@ -18,12 +18,13 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    padding-top: 80px; /* Adjust the value based on your navbar height */
 }
 
 /* Full-page background */
 body {
-    background-image: url('path/to/your/background.jpg');
+    
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
